@@ -6,7 +6,7 @@ public class Latihan1 : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("ayayayayayayaya");
+        Debug.Log("ayayayayayayayaya");
     }
 
     void Update()
